@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UnoTestMacOs.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
