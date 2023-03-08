@@ -52,5 +52,16 @@
   <ItemGroup>
     <ProjectReference Include="..\UnoTestMacOs\UnoTestMacOs.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Update="MacCatalyst\Resources\Default-568h%402x.png">
+      <Link>Default-568h%402x.png</Link>
+    </BundleResource>
+    <BundleResource Update="MacCatalyst\Resources\SplashScreen%403x.png">
+      <Link>SplashScreen%403x.png</Link>
+    </BundleResource>
+    <BundleResource Update="MacCatalyst\Resources\SplashScreen%402x.png">
+      <Link>SplashScreen%402x.png</Link>
+    </BundleResource>
+  </ItemGroup>
   <Import Project="..\UnoTestMacOs.Base\base.props" />
 </Project>
