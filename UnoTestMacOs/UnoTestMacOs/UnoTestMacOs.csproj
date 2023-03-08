@@ -20,6 +20,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="7.0.0" />
     <PackageReference Include="MvvmGen" Version="1.1.5" />
     <PackageReference Include="SkiaSharp.Views.Uno.WinUI" Version="2.88.3" />
+    <PackageReference Include="Topten.RichTextKit" Version="0.4.165" />
     <PackageReference Include="Uno.Core.Extensions.Logging.Singleton" Version="4.0.1" />
     <PackageReference Include="Uno.WinUI" Version="4.7.44" />
   </ItemGroup>
